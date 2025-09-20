@@ -10,6 +10,7 @@ using namespace std;
 
  int main(){
     int n;
+    cout<<"enter the value on n "<<endl;
     cin>>n;
     printPattern(n);
 
