@@ -6,7 +6,7 @@ int pattern (int n){
             cout<<" ";
 
         }
-        for(int j=0;j<9-2*i;j++){
+        for(int j=0;j<2*n-(2*i)+1;j++){
             cout<<"*";
 
         }
